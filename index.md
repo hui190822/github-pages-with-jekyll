@@ -1,3 +1,5 @@
-# Welcome to my blog
+# HI WORLD
 
-I'm glad you are here. I plan to talk about ...
+This is a practice web from GitHub Pages. (learning lab)
+
+Course step1 ~ step7
